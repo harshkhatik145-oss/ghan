@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RBC Count Ki Jaankari</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        p {
+            color: #444;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        strong {
+            color: #000;
+        }
+        em {
+            font-style: italic;
+            color: #222;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>RBC Count Ki Jaankari</h1>
+
+    <div class="section">
+        <h2>RBC Count Kya Hai?</h2>
+        <p>
+            <strong>RBC count</strong>, yaani Red Blood Cell count, ek blood test hai jo aapke khoon mein laal rakt koshikaon (red blood cells) ki sankhya ko maapta hai. Ye koshikayein <strong>hemoglobin</strong> naam ka ek protein istemaal karke aapke phephdon (lungs) se oxygen ko poore sharir mein pahunchati hain.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Normal RBC Range</h2>
+        <p>Vayaskon (adults) mein normal range aam taur par yeh hoti hai:</p>
+        <ul>
+            <li><strong>Purush:</strong> 4.7 se 6.1 million cells/mcL</li>
+            <li><strong>Mahila:</strong> 4.2 se 5.4 million cells/mcL</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Asamaanya Count Ke Kaaran</h2>
+        <p>
+            <strong>Kam RBC Count:</strong> Yeh <em>anemia</em> (khoon ki kami), vitamin B12 ki kami, andarooni bleeding, ya kidney ki beemari ka sanket ho sakta hai.
+        </p>
+        <p>
+            <strong>Adhik RBC Count:</strong> Yeh <em>dehydration</em>, smoking, dil ki beemari, ya phephdon ki samasya (jaise pulmonary fibrosis) ke kaaran ho sakta hai.
+        </p>
+    </div>
+
+</body>
+</html.index
